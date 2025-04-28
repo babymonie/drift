@@ -35,36 +35,6 @@ cd drift
 - Restore NuGet packages.
 - Build the solution; then run Drift.exe from either `/bin/Debug` or `/bin/Release`. Alternatively, download the latest version from the [releases page](https://github.com/babymonie/drift/releases) and run Drift.exe directly.
 
----
-
-## 🧹 Setting up Your Repo
-
-Already have your files locally? Here's how to connect them to GitHub:
-
-```bash
-# Navigate to your local drift project folder
-cd path/to/your/local/drift
-
-# Initialize Git (if not already initialized)
-git init
-
-# Add the remote repository
-git remote add origin https://github.com/babymonie/drift.git
-
-# Stage and commit all files
-git add .
-git commit -m "Initial commit: Add Drift source code"
-
-# Rename the branch to master and push changes
-git branch -M master
-git push -u origin master
-```
-
-(✅ Then, after setting `master` as default, you can delete `main` remotely.)
-
-```bash
-git push origin --delete main
-```
 
 ## 🤝 Contributing
 Pull requests are welcome!  
