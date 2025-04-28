@@ -1,0 +1,12 @@
+C:\Users\aloys\source\repos\Drift\Drift\bin\Debug\Drift.exe.config
+C:\Users\aloys\source\repos\Drift\Drift\bin\Debug\Drift.exe
+C:\Users\aloys\source\repos\Drift\Drift\bin\Debug\Drift.pdb
+C:\Users\aloys\source\repos\Drift\Drift\obj\Debug\Drift.csproj.AssemblyReference.cache
+C:\Users\aloys\source\repos\Drift\Drift\obj\Debug\Drift.Form1.resources
+C:\Users\aloys\source\repos\Drift\Drift\obj\Debug\Drift.Properties.Resources.resources
+C:\Users\aloys\source\repos\Drift\Drift\obj\Debug\Drift.csproj.GenerateResource.cache
+C:\Users\aloys\source\repos\Drift\Drift\obj\Debug\Drift.csproj.CoreCompileInputs.cache
+C:\Users\aloys\source\repos\Drift\Drift\obj\Debug\Drift.exe
+C:\Users\aloys\source\repos\Drift\Drift\obj\Debug\Drift.pdb
+C:\Users\aloys\source\repos\Drift\Drift\obj\Debug\Drift.ScanForm.resources
+C:\Users\aloys\source\repos\Drift\Drift\obj\Debug\Drift.TransferForm.resources
