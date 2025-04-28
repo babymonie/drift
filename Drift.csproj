@@ -8,7 +8,6 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>Drift</RootNamespace>
     <AssemblyName>Drift</AssemblyName>
-    
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <LangVersion>8.0</LangVersion>
     <FileAlignment>512</FileAlignment>
@@ -60,6 +59,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="ScanForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,14 +81,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <EmbeddedResource Include="ScanForm.resx">
       <DependentUpon>ScanForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -107,7 +106,6 @@
   <ItemGroup>
     <None Include="icon.png" />
     <None Include="text.png" />
-    <None Include="ChatGPT Image Apr 27, 2025, 11_37_11 PM.png" />
     <Content Include="icon %281%29.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
