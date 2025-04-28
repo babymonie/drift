@@ -1,7 +1,6 @@
 ![Drift Icon](icon.png) ![Drift Text](text.png)
 <p align="center"> <b>Make hard transfers easy — Seamlessly migrate your browser data.</b> </p>
 <p align="center"> <a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0"> <img alt=".NET 8" src="https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet&logoColor=white"> </a> <a href="https://github.com/babymonie/drift"> <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Drift-black?logo=github"> </a> <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows-blue?logo=windows&logoColor=white"> <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"> </p>
-> **Make hard transfers easy** — Drift seamlessly migrates your browser data without the headache.
 
 ---
 
